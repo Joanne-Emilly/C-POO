@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.pdb
