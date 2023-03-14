@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\bin\Debug\Strings1.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\bin\Debug\Strings1.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\bin\Debug\Strings1.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\obj\Debug\Strings1.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\obj\Debug\Strings1.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\obj\Debug\Strings1.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Strings1\Strings1\obj\Debug\Strings1.csproj.AssemblyReference.cache

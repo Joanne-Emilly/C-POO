@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\bin\Debug\ExercicioBool.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\bin\Debug\ExercicioBool.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\bin\Debug\ExercicioBool.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\obj\Debug\ExercicioBool.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\obj\Debug\ExercicioBool.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\obj\Debug\ExercicioBool.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ExercicioBool\ExercicioBool\obj\Debug\ExercicioBool.pdb
