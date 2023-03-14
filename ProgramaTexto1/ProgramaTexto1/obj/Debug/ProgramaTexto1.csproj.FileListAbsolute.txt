@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\obj\Debug\ProgramaTexto1.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\obj\Debug\ProgramaTexto1.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\bin\Debug\ProgramaTexto1.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\bin\Debug\ProgramaTexto1.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\bin\Debug\ProgramaTexto1.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\obj\Debug\ProgramaTexto1.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\ProgramaTexto1\ProgramaTexto1\obj\Debug\ProgramaTexto1.pdb
