@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe.Placeholders-Concatenação-Interpolação", "Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação.csproj", "{EA5CED74-810D-4D95-AD8F-2FF098963BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5CED74-810D-4D95-AD8F-2FF098963BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5CED74-810D-4D95-AD8F-2FF098963BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5CED74-810D-4D95-AD8F-2FF098963BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5CED74-810D-4D95-AD8F-2FF098963BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {467FC0CD-39E0-47BA-96CE-DAB59E005F3D}
+	EndGlobalSection
+EndGlobal

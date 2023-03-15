@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\bin\Debug\Exe_Operadores_Atribuicao.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\bin\Debug\Exe_Operadores_Atribuicao.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\bin\Debug\Exe_Operadores_Atribuicao.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\obj\Debug\Exe_Operadores_Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\obj\Debug\Exe_Operadores_Atribuicao.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operadores_Atribuicao\Exe_Operadores_Atribuicao\obj\Debug\Exe_Operadores_Atribuicao.pdb

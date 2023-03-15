@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\bin\Debug\Exe.SaidadeDados.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\bin\Debug\Exe.SaidadeDados.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\bin\Debug\Exe.SaidadeDados.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\obj\Debug\Exe.SaidadeDados.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\obj\Debug\Exe.SaidadeDados.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.SaidadeDados\Exe.SaidadeDados\obj\Debug\Exe.SaidadeDados.pdb

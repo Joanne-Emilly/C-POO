@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\bin\Debug\Exe.Placeholders-Concatenação-Interpolação.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\bin\Debug\Exe.Placeholders-Concatenação-Interpolação.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\bin\Debug\Exe.Placeholders-Concatenação-Interpolação.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\obj\Debug\Exe.Placeholders-Concatenação-Interpolação.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\obj\Debug\Exe.Placeholders-Concatenação-Interpolação.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe.Placeholders-Concatenação-Interpolação\Exe.Placeholders-Concatenação-Interpolação\obj\Debug\Exe.Placeholders-Concatenação-Interpolação.pdb

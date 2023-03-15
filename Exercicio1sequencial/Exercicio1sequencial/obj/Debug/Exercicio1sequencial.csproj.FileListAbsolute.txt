@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\bin\Debug\Exercicio1sequencial.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\bin\Debug\Exercicio1sequencial.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\bin\Debug\Exercicio1sequencial.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\obj\Debug\Exercicio1sequencial.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\obj\Debug\Exercicio1sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\obj\Debug\Exercicio1sequencial.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exercicio1sequencial\Exercicio1sequencial\obj\Debug\Exercicio1sequencial.pdb

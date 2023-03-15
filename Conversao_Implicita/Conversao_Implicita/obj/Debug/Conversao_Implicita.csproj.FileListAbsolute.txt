@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\bin\Debug\Conversao_Implicita.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\bin\Debug\Conversao_Implicita.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\bin\Debug\Conversao_Implicita.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\obj\Debug\Conversao_Implicita.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\obj\Debug\Conversao_Implicita.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Conversao_Implicita\Conversao_Implicita\obj\Debug\Conversao_Implicita.pdb

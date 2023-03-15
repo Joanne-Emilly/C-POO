@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\obj\Debug\Exe_Operador_Aritmetico_Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\bin\Debug\Exe_Operador_Aritmetico_Atribuicao.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\bin\Debug\Exe_Operador_Aritmetico_Atribuicao.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\bin\Debug\Exe_Operador_Aritmetico_Atribuicao.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\obj\Debug\Exe_Operador_Aritmetico_Atribuicao.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\obj\Debug\Exe_Operador_Aritmetico_Atribuicao.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Exe_Operador_Aritmetico_Atribuicao\Exe_Operador_Aritmetico_Atribuicao\obj\Debug\Exe_Operador_Aritmetico_Atribuicao.pdb

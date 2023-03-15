@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.pdb
