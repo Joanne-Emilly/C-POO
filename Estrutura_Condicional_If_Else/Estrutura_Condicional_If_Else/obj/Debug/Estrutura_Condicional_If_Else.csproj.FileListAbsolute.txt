@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\bin\Debug\Estrutura_Condicional_If_Else.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\bin\Debug\Estrutura_Condicional_If_Else.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\bin\Debug\Estrutura_Condicional_If_Else.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\obj\Debug\Estrutura_Condicional_If_Else.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\obj\Debug\Estrutura_Condicional_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\obj\Debug\Estrutura_Condicional_If_Else.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Estrutura_Condicional_If_Else\Estrutura_Condicional_If_Else\obj\Debug\Estrutura_Condicional_If_Else.pdb

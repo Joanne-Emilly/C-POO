@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\bin\Debug\Escopo_e_Inicialização.exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\bin\Debug\Escopo_e_Inicialização.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\bin\Debug\Escopo_e_Inicialização.pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\obj\Debug\Escopo_e_Inicialização.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\obj\Debug\Escopo_e_Inicialização.exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Escopo_e_Inicialização\Escopo_e_Inicialização\obj\Debug\Escopo_e_Inicialização.pdb

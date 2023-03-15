@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\Funcoes(Sintaxe).csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\Funcoes(Sintaxe).exe.config
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\Funcoes(Sintaxe).exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\Funcoes(Sintaxe).pdb
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\Funcoes(Sintaxe).exe
+C:\Users\Cliente\Desktop\ESTUDOS\C-POO\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\Funcoes(Sintaxe).pdb
