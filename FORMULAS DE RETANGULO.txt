@@ -1,0 +1,20 @@
+FORMULA DA LARGURA E ALTURA
+Largura = Área / Altura
+Altura = Área / Largura
+
+FÓRMULA DA AREA
+Perímetro = 2 x (Largura + Altura)
+
+
+FÓRMULA DA A
+Área = Largura x Altura
+
+
+FÓRMULA DO D
+Diagonal = √(Largura² + Altura²)
+double largura = 5.0;
+double altura = 3.0;
+double diagonal = Math.Sqrt(Math.Pow(Largura, 2) 
++ Math.Pow(Altura, 2));
+
+
